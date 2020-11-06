@@ -1,4 +1,4 @@
-#Legacy by Bostin Inc.
+# Legacy by Bostin Inc.
 
 Designed by Aryan Sharma
 
