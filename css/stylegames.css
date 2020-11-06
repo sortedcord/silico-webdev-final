@@ -1,5 +1,19 @@
-*{
-	margin: 0;
+@font-face {
+  font-family: 'Voice In My Head';
+  src: url('vimh.otf')  format('opentype');
+}
+
+@font-face {
+  font-family: 'True Lies';
+  src: url('True_Lies.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: 'Doctor Glitch';
+  src: url('Doctor_Glitch.otf')  format('opentype');
+}
+
+*{	margin: 0;
 	padding: 0;
 }
 body{
