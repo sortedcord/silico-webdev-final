@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Voice In My Head';
+  src: url('Fonts\ Used/Voice\ In\ My\ Head.otf')  format('truetype');
+}
+
+
 *{
 	margin: 0;
 	padding: 0;
