@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Voice In My Head';
+  src: url('vimh.otf')  format('opentype');
+}
+
 *{
 	margin: 0;
 	padding: 0;
